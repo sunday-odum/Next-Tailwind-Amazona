@@ -29,3 +29,7 @@ Update Quantity In The Cart
 Save Cart Items
     1. install js-cookie package
     2. save and retreive cart items in cookies
+Create Login Form
+    1. install react hook form
+    2. create input boxes
+    3. add login button
