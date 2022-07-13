@@ -75,3 +75,8 @@ Create Order Screen
     1. add signup api
     2. create register page
     3. call api on form submit
+Pay Order By PayPal
+    1. add paypal button
+    2. handle payment
+    3. create backend api
+    4. update order state
